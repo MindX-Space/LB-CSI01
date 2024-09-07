@@ -1,0 +1,1 @@
+# Viết chương trình nhận vào một chuỗi và trả về chuỗi đã được đảo ngược.

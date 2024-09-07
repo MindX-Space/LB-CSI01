@@ -1,0 +1,1 @@
+# Viết chương trình đếm số lần xuất hiện của mỗi phần tử trong một danh sách.
